@@ -11,8 +11,8 @@ const Login = () => {
     <div class="flex min-h-full flex-col justify-center px-6 py-12 lg:px-8">
         <div class="sm:mx-auto sm:w-full sm:max-w-sm">
             <img class="w-auto" src={logo} alt="هلال احمر" />
-            {/* <span className="text-xs">سازمان امداد و نجات هلال احمر</span> */}
-            <p className="text-base"> سامانه یکپارچه مدیریت اطلاعات سازمان امداد و نجات (RAROMIS) </p>
+            {/* <span className="text-xs">سامانه ثبت گزارشات کشوری نوروی 1403 /span> */}
+            <p className="text-base"> سامانه ثبت گزارشات کشوری نوروی 1403 (RAROMIS) </p>
         </div>
 
         <div class="mt-3 sm:mx-auto sm:w-full sm:max-w-sm">

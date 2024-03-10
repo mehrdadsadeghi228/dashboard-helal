@@ -44,7 +44,7 @@ const Dashboard = () => {
             {
               key: 'activity',
               icon: <IoCloudUploadOutline size={20} />,
-              label: 'سامانه پاسخگویی اضطراری',
+              label: 'سامانه ثبت گزارشات  ',
               children: [
                 {
                   key: 'activity',
@@ -59,12 +59,17 @@ const Dashboard = () => {
                 {
                   key: 'activity',
                   icon: <CiSettings size={20}/>,
-                  label: 'مدیریت کشیک',
+                  label: 'ثبت گزارشات ',
                 },
                 {
                   key: 'activity',
                   icon: <CgDanger size={20}/>,
-                  label: 'فعالیت اضطراری',
+                  label: 'فعالیت ',
+                },   
+                {
+                  key: 'activity',
+                  icon: <CgDanger size={20}/>,
+                  label:  'مسابقات ',
                 }
               ]
             }
